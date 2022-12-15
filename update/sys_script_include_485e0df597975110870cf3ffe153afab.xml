@@ -36,6 +36,10 @@ NeedItUtils.prototype = {
             return false;
         }
     },
+
+    isTrue: function (boo) {
+        return true;
+    },
     type: 'NeedItUtils'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
